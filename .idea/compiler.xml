@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hf-itheima-cloud-api" />
+        <module name="hf-itheima-cloud-consumer" />
+        <module name="hf-itheima-cloud-eureka" />
+        <module name="hf-itheima-cloud-eureka7002" />
+        <module name="hf-itheima-cloud-eureka7003" />
+        <module name="hf-itheima-cloud-provider" />
+        <module name="hf-itheima-euraka7002" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hf-itheima-cloud" target="1.8" />
+      <module name="hf-itheima-cloud-api" target="1.8" />
+      <module name="hf-itheima-cloud-consumer" target="1.8" />
+      <module name="hf-itheima-cloud-eureka" target="1.8" />
+      <module name="hf-itheima-cloud-eureka7002" target="1.8" />
+      <module name="hf-itheima-cloud-eureka7003" target="1.8" />
+      <module name="hf-itheima-cloud-provider" target="1.8" />
+      <module name="hf-itheima-euraka7002" target="1.8" />
+      <module name="hf-itheima-euraka7003" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

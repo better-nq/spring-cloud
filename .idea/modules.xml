@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-api/hf-itheima-cloud-api.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-api/hf-itheima-cloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-consumer/hf-itheima-cloud-consumer.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-consumer/hf-itheima-cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-eureka/hf-itheima-cloud-eureka.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-eureka/hf-itheima-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-eureka7002/hf-itheima-cloud-eureka7002.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-eureka7002/hf-itheima-cloud-eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-eureka7003/hf-itheima-cloud-eureka7003.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-eureka7003/hf-itheima-cloud-eureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-provider/hf-itheima-cloud-provider.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-provider/hf-itheima-cloud-provider.iml" />
     </modules>
   </component>
 </project>
