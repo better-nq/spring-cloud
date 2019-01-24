@@ -17,7 +17,7 @@ public class DeptController {
     @Autowired
     private RestTemplate restTemplate;
 
-    private static final String REST_URL_PREFIX = "http://localhost:8001";
+    private static final String REST_URL_PREFIX = "http://HF-ITHEIMA-CLOUD-PROVIDER";
 
     @GetMapping(value = "/dept/list")
     public List<Dept> findAll(){

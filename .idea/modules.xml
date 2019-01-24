@@ -8,7 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-eureka/hf-itheima-cloud-eureka.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-eureka/hf-itheima-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-eureka7002/hf-itheima-cloud-eureka7002.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-eureka7002/hf-itheima-cloud-eureka7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-eureka7003/hf-itheima-cloud-eureka7003.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-eureka7003/hf-itheima-cloud-eureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-feign/hf-itheima-cloud-feign.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-feign/hf-itheima-cloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-hystrixdashbord/hf-itheima-cloud-hystrixdashbord.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-hystrixdashbord/hf-itheima-cloud-hystrixdashbord.iml" />
       <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-provider/hf-itheima-cloud-provider.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-provider/hf-itheima-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-provider8002/hf-itheima-cloud-provider8002.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-provider8002/hf-itheima-cloud-provider8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-provider8003/hf-itheima-cloud-provider8003.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-provider8003/hf-itheima-cloud-provider8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf-itheima-cloud-provider8004/hf-itheima-cloud-provider8004.iml" filepath="$PROJECT_DIR$/hf-itheima-cloud-provider8004/hf-itheima-cloud-provider8004.iml" />
     </modules>
   </component>
 </project>

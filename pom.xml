@@ -12,10 +12,14 @@
         <module>hf-itheima-cloud-provider</module>
         <module>hf-itheima-cloud-consumer</module>
         <module>hf-itheima-cloud-eureka</module>
-        <module>hf-itheima-euraka7002</module>
-        <module>hf-itheima-euraka7003</module>
+
         <module>hf-itheima-cloud-eureka7002</module>
         <module>hf-itheima-cloud-eureka7003</module>
+        <module>hf-itheima-cloud-provider8002</module>
+        <module>hf-itheima-cloud-provider8003</module>
+        <module>hf-itheima-cloud-feign</module>
+        <module>hf-itheima-cloud-provider8004</module>
+        <module>hf-itheima-cloud-hystrixdashbord</module>
     </modules>
     <packaging>pom</packaging>
 

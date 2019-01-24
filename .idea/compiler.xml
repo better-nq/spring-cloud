@@ -8,11 +8,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hf-itheima-cloud-api" />
         <module name="hf-itheima-cloud-consumer" />
-        <module name="hf-itheima-cloud-eureka" />
         <module name="hf-itheima-cloud-eureka7002" />
         <module name="hf-itheima-cloud-eureka7003" />
+        <module name="hf-itheima-cloud-feign" />
+        <module name="hf-itheima-cloud-hystrixdashbord" />
         <module name="hf-itheima-cloud-provider" />
+        <module name="hf-itheima-cloud-provider8002" />
+        <module name="hf-itheima-cloud-provider8003" />
+        <module name="hf-itheima-cloud-provider8004" />
         <module name="hf-itheima-euraka7002" />
+      </profile>
+      <profile name="Annotation profile for hf-itheima-cloud" enabled="true">
+        <sourceOutputDir name="../hf-itheima-cloud-eureka7003/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../hf-itheima-cloud-eureka7003/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hf-itheima-cloud-eureka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,7 +32,12 @@
       <module name="hf-itheima-cloud-eureka" target="1.8" />
       <module name="hf-itheima-cloud-eureka7002" target="1.8" />
       <module name="hf-itheima-cloud-eureka7003" target="1.8" />
+      <module name="hf-itheima-cloud-feign" target="1.8" />
+      <module name="hf-itheima-cloud-hystrixdashbord" target="1.8" />
       <module name="hf-itheima-cloud-provider" target="1.8" />
+      <module name="hf-itheima-cloud-provider8002" target="1.8" />
+      <module name="hf-itheima-cloud-provider8003" target="1.8" />
+      <module name="hf-itheima-cloud-provider8004" target="1.8" />
       <module name="hf-itheima-euraka7002" target="1.8" />
       <module name="hf-itheima-euraka7003" target="1.8" />
     </bytecodeTargetLevel>

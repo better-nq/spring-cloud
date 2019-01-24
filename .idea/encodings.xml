@@ -7,9 +7,12 @@
     <file url="file://$PROJECT_DIR$/hf-itheima-cloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hf-itheima-cloud-eureka7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hf-itheima-cloud-eureka7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hf-itheima-cloud-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hf-itheima-cloud-hystrixdashbord" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hf-itheima-cloud-provider" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hf-itheima-euraka7002" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hf-itheima-euraka7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hf-itheima-cloud-provider8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hf-itheima-cloud-provider8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hf-itheima-cloud-provider8004" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
